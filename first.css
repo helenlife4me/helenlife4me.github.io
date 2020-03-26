@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="hw1.css"/>
+    <style>
+    h1 {
+        color: white;
+    }
+    section h1 {
+        color: blue;
+        background-color: rgba(128, 128, 128, 0.781);
+    }
+    header {
+        background-color: rgba(128, 128, 128, 0.384);
+    }
+    p {
+        background-color: rgba(128, 128, 128, 0.781);
+    }
+    a {
+        color: black;
+    }
+    </style>
+</head>
+<body>
+    <header>
+    
+    <h1 class="check">ULTIMATE FRISBEE</h1>
+
+     <p>
+    <nav>
+        <a href="https://www.w3schools.com/" target="_blank">Home</a>
+        <a href="https://www.w3schools.com/" target="_blank">Teams</a>
+        <a href="https://www.w3schools.com/" target="_blank">History</a>
+        <a href="https://www.w3schools.com/" target="_blank">USA</a>
+        <a href="https://www.w3schools.com/" target="_blank">Ultimate</a>
+    </nav>
+   </p></header>
+
+    <section>
+<h2> WHATCH YOUR HEAD</h2>
+<p>Ultimate Frisbee is a sport that I never played myself, but it´s populatity is something hard to ignor 
+    in many Midwestern college towns. Students (and people who wish they were still students) 
+    spend the few briefs months of good weather, sprinting down fields, hurling frisbees, 
+    and yelling "Stack!!"<div class=""></div></p>
+
+<p>What I find much more entertaining is the large number of people who continue to play when the weather gets
+     windy and the night sky darkens around oh....4:15pm. The sight of frisbees boomeranging in the wind is 
+     topped only by the knowledge that even when you can´t seem, those plastis discs of death are probably 
+     hurting through the dark night at 8 or 9 o´clock in the evening.</p>
+
+<p>Ultimate Frisbee requuires a great deal of stamina and dexterity. No surprisingly, the IOC officially
+     recognized Ultimate as a ssport in 2015. It can go uup against other sports for inclusion in Olimpic games.</p>
+    </section>
+    
+</body>
+</html>
